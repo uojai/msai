@@ -182,3 +182,8 @@ a:hover {
     height: 3.2rem;
     width: 3.2rem;
 }
+
+.marks {
+    padding-left: 0px;
+    padding-right: 30px;
+}
